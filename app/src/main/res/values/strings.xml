@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoAppJoke</string>
+    <string name="joke">Joke</string>
+    <string name="add">Add</string>
+    <string name="favourite">Favourite</string>
+    <string name="delete">Delete</string>
+    <string name="share_joke_by_text">Share jokes</string>
+</resources>
